@@ -1,2 +1,2 @@
 # mirepo
-Este es un ejepmlo de un archivo en la nube
+Este es un ejemplo de un archivo en la nube
